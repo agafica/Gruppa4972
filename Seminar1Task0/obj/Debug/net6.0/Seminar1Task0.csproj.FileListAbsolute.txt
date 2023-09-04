@@ -1,0 +1,5 @@
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task0/obj/Debug/net6.0/Seminar1Task0.csproj.AssemblyReference.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task0/obj/Debug/net6.0/Seminar1Task0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task0/obj/Debug/net6.0/Seminar1Task0.AssemblyInfoInputs.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task0/obj/Debug/net6.0/Seminar1Task0.AssemblyInfo.cs
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task0/obj/Debug/net6.0/Seminar1Task0.csproj.CoreCompileInputs.cache
