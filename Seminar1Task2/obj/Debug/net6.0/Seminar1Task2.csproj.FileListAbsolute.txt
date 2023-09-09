@@ -1,0 +1,15 @@
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.csproj.AssemblyReference.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.AssemblyInfoInputs.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.AssemblyInfo.cs
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.csproj.CoreCompileInputs.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.deps.json
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.runtimeconfig.json
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.dll
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/bin/Debug/net6.0/Seminar1Task2.pdb
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.dll
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/refint/Seminar1Task2.dll
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.pdb
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/Seminar1Task2.genruntimeconfig.cache
+/Users/Albina/Desktop/ Программирование/Gruppa4972/Seminar1Task2/obj/Debug/net6.0/ref/Seminar1Task2.dll
